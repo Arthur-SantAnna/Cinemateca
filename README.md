@@ -14,7 +14,7 @@ O aplicativo está disponível para download aqui no repositório no tópico “
 Dê preferência sempre para a versão mais recente.
 Você também pode realizar o download através do Código QR abaixo:
 <div align="left">
-<img src="------" width = "500px"/>
+<img src="https://github.com/Arthur-SantAnna/Cinemateca/assets/90232353/05e3f018-bb1e-4aea-b90b-94f47bd61f20" width = "150px"/>
 </div>
 
 ## Imagens

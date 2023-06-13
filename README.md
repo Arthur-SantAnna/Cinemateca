@@ -1,13 +1,13 @@
 # Cinemateca
 
 ## Sobre
-O MoviesTMDB  é um aplicativo mobile que consome a API fornecida pelo [The Movie Database(TMDb)](https://www.themoviedb.org/?language=pt-BR). 
+O Cinemateca é um aplicativo mobile que consome a API fornecida pelo [The Movie Database(TMDb)](https://www.themoviedb.org/?language=pt-BR). 
 
 TMDb é uma base de dados grátis e de código aberto, sobre filmes e seriados, criado por Travis Bell em 2008.
 
-Criei esse aplicativo com a finalidade de estudar novos conceitos e aprender.
+Criamos esse aplicativo com a finalidade de estudar novos conceitos e aprender.
 
-Utilizei neste projeto além da API, o [Retrofit](https://square.github.io/retrofit/), Gson e [Glide](https://github.com/bumptech/glide).
+Utilizamos neste projeto além da API, o [Retrofit](https://square.github.io/retrofit/), Gson e [Glide](https://github.com/bumptech/glide).
 
 ## Funcionalidades
 As três principais funções que o Cinemateca é capaz de realizar são:
